@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "myapp"
+		},
+		{
+			"path": "multiple-component-app"
+		},
+		{
+			"path": "props-in-react"
+		},
+		{
+			"path": "react-events"
+		},
+		{
+			"path": "states-react"
+		},
+		{
+			"path": "react-forms"
+		},
+		{
+			"path": "react-working-with-collections"
+		},
+		{
+			"path": "react-component-lifecycle"
+		},
+		{
+			"path": "react-routing"
+		},
+		{
+			"path": "authorquiz"
+		}
+	],
+	"settings": {}
+}
